@@ -1,0 +1,26 @@
+{
+  "name": "react-babel-webpack4-boilerplate",
+  "version": "1.0.0",
+  "description": "Just a basic React + Babel + Webpack 4 boilerplate I have made to speed some of my prototypes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NauCode/react-babel-webpack4-boilerplate.git"
+  },
+  "keywords": [
+    "reactjs",
+    "babel",
+    "webpack",
+    "webpack4",
+    "boilerplate"
+  ],
+  "author": "Alberto Del Águila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NauCode/react-babel-webpack4-boilerplate/issues"
+  },
+  "homepage": "https://github.com/NauCode/react-babel-webpack4-boilerplate#readme"
+}
