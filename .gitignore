@@ -1,12 +1,13 @@
 .DS_STORE
-node_modules
+node_modules/*
 scripts/flow/*/.flowconfig
 *~
 *.pyc
 .grunt
 _SpecRunner.html
 __benchmarks__
-build/
+build/*
+dist/*
 remote-repo/
 coverage/
 .module-cache
