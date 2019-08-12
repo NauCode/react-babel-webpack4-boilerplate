@@ -4,7 +4,8 @@
   "description": "Just a basic React + Babel + Webpack 4 boilerplate I have made to speed some of my prototypes.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/NauCode/react-babel-webpack4-boilerplate/issues"
   },
-  "homepage": "https://github.com/NauCode/react-babel-webpack4-boilerplate#readme"
+  "homepage": "https://github.com/NauCode/react-babel-webpack4-boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  }
 }
